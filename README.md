@@ -8,12 +8,12 @@ Time spent: 15 hours (I mistakenly spent very long time implementing all filter 
 
 #### Required
 
-# Search results page
+##### Search results page
 - [x] Table rows should be dynamic height according to the content height
 - [x] Custom cells should have the proper Auto Layout constraints
 - [x] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does).
 
-# Filter page. 
+##### Filter page. 
 - [x] The filters you should actually have are: category, sort (best match, distance, highest rated), radius (meters), deals (on/off).
 - [x] The filters table should be organized into sections as in the mock.
 - [x] You can use the default UISwitch for on/off states.
@@ -23,11 +23,11 @@ Time spent: 15 hours (I mistakenly spent very long time implementing all filter 
 
 #### Optional
 
-# Search results page
+##### Search results page
 - [ ] Infinite scroll for restaurant results
 - [ ] Implement map view of restaurant results
 
-# Filter page. 
+##### Filter page. 
 - [ ] Implement a custom switch
 - [ ] Implement the restaurant detail page.
 
